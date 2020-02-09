@@ -35,7 +35,7 @@ proposto e teoricamente.<br>
 Em suma, poderia também, “copiar” o desafio do Colega <a
 href="https://github.com/gvccandido/bash-challenge">Gabriel</a>, mas acho que
 isso seria apenas uma questão de tempo para que, se de fato o ponto forte
-pedido é o Código, eu fosse descoberto.<br>
+pedido é o Código, eu seria descoberto.<br>
 <br>
 <br>
 </p>
